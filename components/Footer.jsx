@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
       <p>
-        Made with <AiOutlineHeart style={{ fontSize: "20px" }} /> by Samia
+        Made with <AiOutlineHeart style={{ fontSize: "20px" }} /> by Nahuel Gomez
       </p>
     </footer>
   );
